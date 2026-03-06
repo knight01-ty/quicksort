@@ -1,3 +1,4 @@
 # quicksort
 learning sorting
-DS
+DS on CT
+
